@@ -1,0 +1,23 @@
+############# Spanish navigation ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "Sobre mí"
+pageRef = "/about"
+weight = 2
+
+# footer menu
+[[footer]]
+name = "Sobre mí"
+pageRef = "/about"
+weight = 1
+
+[[footer]]
+name = "Política de privacidad"
+pageRef = "/privacy-policy"
+weight = 3
